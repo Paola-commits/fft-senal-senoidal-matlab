@@ -1,20 +1,16 @@
-# Simulación de señal senoidal y análisis con FFT en MATLAB
+Simulación de señal senoidal y análisis con FFT en MATLAB
 
-Este proyecto muestra cómo generar una señal senoidal en MATLAB y analizarla mediante la Transformada de Fourier (FFT). Se obtienen tres gráficas principales: la señal en el dominio del tiempo, la magnitud del espectro y la fase del espectro.
+Este proyecto muestra cómo generar una señal senoidal en MATLAB y analizarla mediante la Transformada de Fourier (FFT). Se obtienen tres resultados principales: la señal en el dominio del tiempo, la magnitud del espectro y la fase del espectro.
 
-## Instrucciones de ejecución
+Instrucciones de ejecución
 1. Abrir MATLAB.
 2. Ejecutar el archivo `OndaSeno.m`.
-3. Se generarán tres figuras:
-   - Figura 1: Señal senoidal en el tiempo.
-   - Figura 2: Magnitud del espectro.
-   - Figura 3: Fase del espectro.
 
-## Ejemplo de salida
-- Figura 1: Señal senoidal con amplitud de 3, frecuencia de 10 Hz y fase inicial de π/6.
-- Figura 2: Pico en la magnitud del espectro en 10 Hz.
-- Figura 3: Fase constante en π/6 radianes.
+Resultados esperados
+- Señal senoidal con amplitud de 3, frecuencia de 10 Hz y fase inicial de π/6.
+- Pico en la magnitud del espectro en 10 Hz.
+- Fase constante en π/6 radianes.
 
-## Autor
+Autor
 Michel (Paola Reyes)
 
